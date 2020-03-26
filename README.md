@@ -8,7 +8,7 @@ readme template
 
 ## Description
 
-A page written in HTML, using JavaScript functionality, to run a calculator app.
+A page written in HTML, using JavaScript and jQuery functionality, to run a calculator app.
 
 ## Setup/Installation Requirements
 
